@@ -24,7 +24,7 @@ require (
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.4
-	github.com/google/go-containerregistry v0.18.0
+	github.com/google/go-containerregistry v0.19.1
 	github.com/google/go-containerregistry/pkg/authn/k8schain v0.0.0-20230905180039-a748190e18d4
 	github.com/gorilla/handlers v1.5.2
 	github.com/gorilla/websocket v1.5.1
