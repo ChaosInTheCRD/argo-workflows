@@ -1,6 +1,7 @@
 module github.com/argoproj/argo-workflows/v3
 
-go 1.18
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -42,7 +43,7 @@ require (
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.6
-	github.com/spf13/viper v1.20.0
+	github.com/spf13/viper v1.20.1
 	github.com/stretchr/testify v1.10.0
 	github.com/tidwall/gjson v1.18.0
 	github.com/valyala/fasttemplate v1.2.2
